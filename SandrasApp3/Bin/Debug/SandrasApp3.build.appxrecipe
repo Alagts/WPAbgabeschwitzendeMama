@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JUTTASPC</Machine>
+    <WindowsUser>Jutta</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f0388fb9-52f6-47e7-9e74-1b0787e5f21a</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Bin\Debug\SandrasApp3.dll">
+      <PackagePath>SandrasApp3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\AppBar1\share.png">
+      <PackagePath>Assets\AppBar1\share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\AppBar\check.png">
+      <PackagePath>Assets\AppBar\check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\AppBar\share.png">
+      <PackagePath>Assets\AppBar\share.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jutta\documents\visual studio 2015\Projects\SandrasApp3\SandrasApp3\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
